@@ -1,10 +1,10 @@
 // ? HTMLCreatorJS repositories
-import List from "juancruzagb/HTMLCreatorJS/js/Boxes/List";
-import Nav from "juancruzagb/HTMLCreatorJS/js/Boxes/Nav";
-import Image from "juancruzagb/HTMLCreatorJS/js/Visuals/Image";
+import List from "juancruzagb/htmlcreator/js/Boxes/List";
+import Nav from "juancruzagb/htmlcreator/js/Boxes/Nav";
+import Image from "juancruzagb/htmlcreator/js/Visuals/Image";
 
 // ? Core
-import Html from "juancruzagb/HTMLCreatorJS/js/Core/Html";
+import Html from "juancruzagb/htmlcreator/js/Core/Html";
 
 /**
  * * Gallery makes an excellent gallery of files.
@@ -277,7 +277,7 @@ export default class Gallery extends Html {
                                                             id: `${ data.props.id }-button-${ parseInt(key) + 1 }-image`,
                                                             classList: ['gallery-button-image'],
                                                             src: data.props.images[key],
-                                                            name: 'Image genereted with HTMLCreatorJS/Gallery',
+                                                            name: 'Image genereted with htmlcreator/Gallery',
                                                         },
                                                     }],
                                                 ],
@@ -300,7 +300,7 @@ export default class Gallery extends Html {
                     id: `${ data.props.id }-image`,
                     classList: ['gallery-image'],
                     src: [...data.props.images].shift(),
-                    name: 'Image genereted with HTMLCreatorJS/Gallery',
+                    name: 'Image genereted with htmlcreator/Gallery',
                 },
             }],
         ]
