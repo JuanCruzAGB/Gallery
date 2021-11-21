@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JuanCruzAGB/GalleryJS.git"
+    "url": "git+https://github.com/JuanCruzAGB/Gallery.git"
   },
   "keywords": [
     "JuanCruzAGB",
@@ -20,7 +20,7 @@
   "author": "JuanCruzAGB",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JuanCruzAGB/GalleryJS/issues"
+    "url": "https://github.com/JuanCruzAGB/Gallery/issues"
   },
-  "homepage": "https://github.com/JuanCruzAGB/GalleryJS#readme"
+  "homepage": "https://github.com/JuanCruzAGB/Gallery#readme"
 }

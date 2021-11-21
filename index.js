@@ -1,8 +1,8 @@
-// ? JuanCruzAGB | GalleryJS repository
+// ? JuanCruzAGB | Gallery repository
 import Gallery from "./js/Gallery";
 
 /**
- * @module GalleryJS
+ * @module Gallery
  */
 export { Gallery };
 export default Gallery;

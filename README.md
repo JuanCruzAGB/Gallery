@@ -1,1 +1,1 @@
-# GalleryJS
+# Gallery

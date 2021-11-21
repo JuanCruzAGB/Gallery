@@ -1,4 +1,4 @@
-// ? HTMLCreatorJS repositories
+// ? HTMLCreator repositories
 import List from "juancruzagb/htmlcreator/js/Boxes/List";
 import Nav from "juancruzagb/htmlcreator/js/Boxes/Nav";
 import Image from "juancruzagb/htmlcreator/js/Visuals/Image";
