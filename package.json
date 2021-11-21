@@ -1,0 +1,26 @@
+{
+  "name": "@juancruzagb/gallery",
+  "version": "1.0.0",
+  "description": "HTMLCreator Gallery extension",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanCruzAGB/GalleryJS.git"
+  },
+  "keywords": [
+    "JuanCruzAGB",
+    "Javascript",
+    "Html",
+    "Gallery"
+  ],
+  "author": "JuanCruzAGB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanCruzAGB/GalleryJS/issues"
+  },
+  "homepage": "https://github.com/JuanCruzAGB/GalleryJS#readme"
+}
