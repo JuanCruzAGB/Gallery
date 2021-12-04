@@ -1,6 +1,6 @@
 {
   "name": "@juancruzagb/gallery",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "HTMLCreator Gallery extension",
   "main": "index.js",
   "type": "module",

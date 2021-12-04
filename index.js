@@ -1,5 +1,5 @@
 // ? JuanCruzAGB | Gallery repository
-import Gallery from "./js/Gallery";
+import Gallery from "@juancruzagb/gallery/js/Gallery.js";
 
 /**
  * @module Gallery

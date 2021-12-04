@@ -1,10 +1,10 @@
 // ? HTMLCreator repositories
-import List from "@juancruzagb/htmlcreator/js/Boxes/List";
-import Nav from "@juancruzagb/htmlcreator/js/Boxes/Nav";
-import Image from "@juancruzagb/htmlcreator/js/Visuals/Image";
+import List from "@juancruzagb/htmlcreator/js/Boxes/List.js";
+import Nav from "@juancruzagb/htmlcreator/js/Boxes/Nav.js";
+import Image from "@juancruzagb/htmlcreator/js/Visuals/Image.js";
 
 // ? Core
-import Html from "@juancruzagb/htmlcreator/js/Core/Html";
+import Html from "@juancruzagb/htmlcreator/js/Core/Html.js";
 
 /**
  * * Gallery makes an excellent gallery of files.
