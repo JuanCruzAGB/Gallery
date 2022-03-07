@@ -48,7 +48,7 @@ export default class Gallery extends Html {
             selected: false,
         }, callbacks: {
             select: {
-                function: (params) => { /* console.log(params) */ },
+                function: params => { /* console.log(params) */ },
                 params: {},
             },
         }, children: [],
@@ -226,7 +226,7 @@ export default class Gallery extends Html {
      */
     static callbacks = {
         select: {
-            function: (params) => { /* console.log(params) */ },
+            function: params => { /* console.log(params) */ },
             params: {},
         },
     }
